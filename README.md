@@ -14,4 +14,4 @@ I love taking project from **idea to prototype to deployed app**, learning along
 ## Featured Projects
 
 
-## Connect With Me
+### Connect With Me
