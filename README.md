@@ -1,6 +1,6 @@
 # Maya Smith
 
-Hi there 👋 I'm Edriena, a self-taught **Full Stack Developer** passionate about building **production-ready web application** using **React, Node.js, Ruby on Rails, Tailwind CSS, and Docker**. My background in **Graphic Design and Content Creation** gives me a unique edge: I craft **visually appealing, user-friendly interfaces** while writing *clean, maintainable code*.
+Hi there 👋 I'm Edriena, a self-taught **Full Stack Developer** passionate about building **production-ready web application** using **React, Node.js, Ruby on Rails, Tailwind CSS, and Docker**. My background in **Graphic Design and Content Creation** gives me a unique edge: I craft **visually appealing, user-friendly interfaces** while writing ***clean, maintainable code***.
 
 I love taking project from **idea to prototype to deployed app**, from *mini games to fullstack platforms*, and enjoy projects that challenge both my **technical  and creative skills**.
 
