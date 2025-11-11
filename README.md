@@ -5,8 +5,8 @@ Hi there 👋 I'm Edriena, a self-taught ***Full Stack Developer*** passionate a
 I love taking project from **idea to prototype to deployed app**, from ***mini games to fullstack platforms***, and enjoy projects that challenge both my **technical  and creative skills**.
 
 ## Tech-Stacks
-- **Frontend**: React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Node.js, Express, Ruby on Rails, REST APIs
+- **Frontend**: TypeScript, React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Next.js, Node.js, Express, Ruby on Rails, REST APIs
 - **Database**: PostgreSQL, MySQL, MongoDB
 - **DevOps/Deployment**: Docker, containerized workflow, Heroku/Render
 - **Other**: Git, API Intergration, testing frameworks
