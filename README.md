@@ -42,4 +42,4 @@
 30% ↑ website traffic in 6 months
 50% ↑ organic traffic through technical SEO
 15% ↓ bounce rates via UX optimization
-100% ↓ fucks given about corporate buzzwords
+0% ↓ fucks given about corporate buzzwords, unless you want me to then it's 100%
